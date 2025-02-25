@@ -12,7 +12,7 @@ As with the previous exercise, we've left a little more for you to do.
 
 ## Desired outcome
 
-![desired outcome](./desired-outcome.png)
+<!-- ![desired outcome](./desired-outcome.png) -->
 
 The number of cards lined up in that section will change based on the width of your screen, so don't stress about getting _exactly_ a 2x3 or 3x2 grid.
 
